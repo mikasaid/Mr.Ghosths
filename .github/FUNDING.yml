@@ -1,0 +1,40 @@
+# These are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+… and many more [on npm](https://www.npmjs.com/~ljharb)
+
+## Standards/Communities I Contribute To
+<caption>this includes participation in working groups, committees, meetings, general issue triage, etc</caption>
+
+ - [TC39](https://tc39.es/) (JavaScript language committee)
+ - [node.js](https://nodejs.org/): [slack](https://www.nodeslackers.com), Working Groups: [Modules](https://github.com/nodejs/modules), [Version Management](https://github.com/nodejs/version-management), [Moderation](https://github.com/nodejs/admin/blob/main/Moderation-Policy.md), [Package Maintenance](https://github.com/nodejs/package-maintenance)
+ - [OpenJS Foundation](https://github.com/openjs-foundation/) [Cross Project Council](https://github.com/openjs-foundation/cross-project-council)
+ - [OpenSSF Foundation](https://openssf.org/) [Governing Board](https://openssf.org/about/board/)
+ - [eslint](https://github.com/eslint/eslint/issues?utf8=✓&q=commenter%3Aljharb)
+ - [babel](https://github.com/babel/babel/issues?utf8=✓&q=commenter%3Aljharb): [slack](https://babeljs.slack.com/)
+ - [libera](https://libera.chat) IRC: [#javascript](https://web.libera.chat/?channel=#javascript), [#node.js](https://web.libera.chat/?channel=#node.js)
+
+# How Sponsorship Helps
+
+Although open source is a huge part of my life, it's not the most important part - I have a spouse, kids, and a dog; bills to pay; and I also try to give back to the wider community.
+
+Sponsorship helps fund domains, travel, but also *other sponsorships*
+
+# Github Stats
+
+<details>
+
+![GitHub stats](https://github.com/ljharb/ljharb/blob/metrics/github-metrics.svg)
+
+</details>
+
